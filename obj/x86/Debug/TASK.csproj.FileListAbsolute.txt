@@ -1,0 +1,13 @@
+G:\vb new\TASK\TASK\bin\Debug\TASK.exe
+G:\vb new\TASK\TASK\bin\Debug\TASK.pdb
+G:\vb new\TASK\TASK\bin\Debug\MetroFramework.dll
+G:\vb new\TASK\TASK\bin\Debug\MetroFramework.Fonts.dll
+G:\vb new\TASK\TASK\obj\x86\Debug\TASK.csprojResolveAssemblyReference.cache
+G:\vb new\TASK\TASK\obj\x86\Debug\TASK.Form1.resources
+G:\vb new\TASK\TASK\obj\x86\Debug\TASK.Properties.Resources.resources
+G:\vb new\TASK\TASK\obj\x86\Debug\TASK.csproj.GenerateResource.Cache
+G:\vb new\TASK\TASK\obj\x86\Debug\TASK.exe
+G:\vb new\TASK\TASK\obj\x86\Debug\TASK.pdb
+G:\vb new\TASK\TASK\obj\x86\Debug\TASK.Form2.resources
+G:\vb new\TASK\TASK\obj\x86\Debug\TASK.Form3.resources
+G:\vb new\TASK\TASK\bin\Debug\TASK.exe.config
